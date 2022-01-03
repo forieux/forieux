@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p><pre align="center">
 <strong>François Orieux /</strong> <a href="https://pro.orieux.fr/">Homepage</a> / <a href="https://cv.archives-ouvertes.fr/francois-orieux">HAL</a> / <a href="https://github.com/forieux">GitHub</a> / <a href="https://linkedin.com/in/fran%C3%A7ois-orieux-a712607b">LinkedIn</a> / <a href="https://orcid.org/0000-0001-5638-3416">ORCID</a></pre></p>
 
